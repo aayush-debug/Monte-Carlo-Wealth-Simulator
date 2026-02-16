@@ -8,6 +8,7 @@ tubakhxn
 
 ## What is this project?
 This is a single-file Streamlit app that simulates future wealth using Monte Carlo methods and geometric Brownian motion. It visualizes thousands of possible investment paths and key statistics.
+<img width="1894" height="1455" alt="Screenshot 2026-02-16 220232" src="https://github.com/user-attachments/assets/4ed18376-355e-4032-91f6-8aaf5fdd0d06" />
 
 ## How to Fork
 1. Click the "Fork" button at the top right of this repository on GitHub.
@@ -34,3 +35,4 @@ This project is developed and tested on **Windows**. It should also work on macO
 ---
 
 *No financial advice. For educational use only.*
+
