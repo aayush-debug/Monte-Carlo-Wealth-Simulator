@@ -20,7 +20,7 @@ This is a single-file Streamlit app that simulates future wealth using Monte Car
 4. Run the app as described.
 
 ## Operating System
-This project is developed and tested on **Windows**. It should also work on macOS and Linux with Python 3.7+ and pip.
+This project is developed and tested on **Windows & macOS**. It should also work on Linux with Python 3.7+ and pip.
 
 ## Quick Start
 1. Install dependencies:
